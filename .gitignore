@@ -1,0 +1,13 @@
+# Virtual Environment
+venv/
+/venv/
+__pycache__/
+
+# Generated files
+generated_music/
+*.mp4
+*.wav
+
+# IDE files
+.idea/
+.vscode/

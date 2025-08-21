@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+torch
+transformers
+python-multipart
+requests
+Pillow
+opencv-python-headless
+moviepy
+scipy
